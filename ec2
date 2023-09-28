@@ -2,4 +2,4 @@ mkdir
 touch
 ls -a
 git init
-git branch
+git checkout
